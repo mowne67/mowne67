@@ -9,15 +9,15 @@
 
 I'm a Data Scientist and Full Stack AI Engineer with a Bachelors in Aerospace Engineering (with electives in Data Science) from **IIT Madras**. I love building scalable solutions at the intersection of data, AI, and making impactful acceleration with my solutions. Currently based in Bangalore, India.
 
-*Experience: 3 yrs 0 months*
-
 ---
 
 ## 💼 Professional Experience
 
-#### **Genpact  — Assistant Manager / Data Scientist**   *Dec 2024 - Present*
+Experience: 3 yrs 0 months
 
-#### **IQVIA  — Analyst (Advanced Analytics)**    *Jul 2022 – Dec 2024*
+#### **Genpact: Data Scientist, Analytics Embedment**   *Dec 2024 - Present*
+
+#### **IQVIA: Analyst, Advanced Analytics**    *Jul 2022 – Dec 2024*
 
 ---
 
