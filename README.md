@@ -15,9 +15,9 @@ I'm a Data Scientist and Full Stack AI Engineer with a Bachelors in Aerospace En
 
 Experience: 3 yrs 0 months
 
--  **Genpact**: Data Scientist, Analytics Embedment   *Dec 2024 - Present*
+-  **[Genpact](genpact.com)**: Data Scientist, Analytics Embedment   *Dec 2024 - Present*
 
--  **IQVIA**: Analyst, Advanced Analytics    *Jul 2022 – Dec 2024*
+-  **[IQVIA](iqvia.com)**: Analyst, Advanced Analytics    *Jul 2022 – Dec 2024*
 
 ---
 
