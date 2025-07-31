@@ -28,15 +28,10 @@ I'm a Data Scientist and Full Stack AI Engineer with a Bachelors in Aerospace En
 
 ### **Genpact (Bangalore) — Assistant Manager / Data Scientist**  
 *Dec 2024 - Present*
-- Developed a Data Extraction & Query-answering app for credit and loan agreements using Llama3, RAG pipeline, AWS S3, and Lambda.
-- Enhanced dashboards with Explainable AI, leveraging LLMs for insights, trends & recommendations; built a chatbot for custom plots.
 
 ### **IQVIA (Bangalore) — Analyst (Advanced Analytics)**  
 *Jul 2022 – Dec 2024*
-- Advanced NLP for theme generation, sentiment analysis, clustering, and classification using GenAI, embeddings, and semantic search.
-- Led robustness testing of Price Elasticity pipelines and contributed to strategic pricing analytics.
-- Built an AI/ML-based survey automation tool, reducing survey completion time by 8%.
-- Drove projects in market segmentation and persona enrichment using advanced modeling and extrapolation.
+
 
 ---
 
