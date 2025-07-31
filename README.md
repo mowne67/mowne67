@@ -1,10 +1,3 @@
-# Hi, I'm Mowne!
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-mowne-blue?logo=linkedin)](https://linkedin.com/in/mowne)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-informational?logo=github)](https://github.com/mowne67/Portfolio-Mowne)
-
----
-
 ## 🚀 About Me
 
 I'm a Data Scientist and Full Stack AI Engineer with a Bachelors in Aerospace Engineering (with electives in Data Science) from **IIT Madras**. I love building scalable solutions at the intersection of data, AI, and making impactful acceleration with my solutions. Currently based in Bangalore, India.
