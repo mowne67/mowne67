@@ -37,6 +37,7 @@ I'm a Data Scientist and Full Stack AI Engineer with a Bachelors in Aerospace En
 
 ## 🌟 Projects
 
+- **[YouTube Knowledge Bank](https://github.com/mowne67/ytknowledgebank):** A pipeline for extracting, summarizing, and organizing YouTube video content into structured markdown summaries. Features include subtitle extraction, AI-based summarization, and deployment-ready configurations for efficient knowledge management.
 - **[Portfolio-Mowne](https://github.com/mowne67/Portfolio-Mowne):** My portfolio of data science, AI, and ML projects.
 - **LLM Applications:** Movie script generation tool using fine-tuned LLMs (Gemini), RAG-based topic modeling & querying (Llama3 + FAISS).
 - **YOLO Object Detection:** Customer behavior insights from CCTV using YOLO and LLM-generated reports.
