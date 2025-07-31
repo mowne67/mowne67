@@ -10,7 +10,7 @@
 I'm a Data Scientist and Full Stack AI Engineer with a Bachelors in Aerospace Engineering (with electives in Data Science) from **IIT Madras**. I love building scalable solutions at the intersection of data, AI, and making impactful acceleration with my solutions. Currently based in Bangalore, India.
 
 
-Experience: 3 yrs 0 months
+*Experience: 3 yrs 0 months*
 
 ---
 
@@ -38,11 +38,6 @@ Experience: 3 yrs 0 months
 - Built an AI/ML-based survey automation tool, reducing survey completion time by 8%.
 - Drove projects in market segmentation and persona enrichment using advanced modeling and extrapolation.
 
-### **The Prints Company (Remote) — Machine Learning Engineer Intern**  
-*Feb 2022 - Mar 2022*
-- Deployed StyleGAN2 with VGG-16 for design generation.
-- Built automated spiders with ScraPy for large-scale image scraping.
-
 ---
 
 ## 🌟 Projects
@@ -64,19 +59,9 @@ Coursework: Data Analytics, Applied Statistics, Probabilistic Systems Analysis, 
 
 ---
 
-## 🏅 Leadership
-
-**Saarang, IIT Madras — Publicity Coordinator** (2018-2019)  
-- Led 50 ambassadors, boosting event footfall by 28% (from 70,000 to 90,000).
-
----
-
 ## 📫 Contact
 
-- **Email:** aksmownetharan@gmail.com
+- **Email:** aksmownetharan@gmail.com, mowne67@alumni.iitm.ac.in
 - **Location:** Bangalore, India
 - **LinkedIn:** [linkedin.com/in/mowne](https://linkedin.com/in/mowne)
 
----
-
-*Let's connect, collaborate, and build something impactful!*
