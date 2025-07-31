@@ -2,15 +2,17 @@ name: Update Experience in README
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # every day at midnight
-  workflow_dispatch:      # also allow manual runs
+    - cron: "0 0 * * *"  # Run daily at midnight UTC
+  workflow_dispatch:      # Allow manual runs
 
 jobs:
   update-readme:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout repo
+      - name: Checkout repo with PAT
         uses: actions/checkout@v3
+        with:
+          token: ${{ secrets.PAT_TOKEN }}
 
       - name: Set up Python
         uses: actions/setup-python@v4
@@ -21,12 +23,9 @@ jobs:
         run: python update_readme.py
 
       - name: Commit and Push changes
-        env:
-          PAT_TOKEN: ${{ secrets.PAT_TOKEN }}
         run: |
-          git config --global user.name "github-actions"
-          git config --global user.email "github-actions@github.com"
-          git remote set-url origin https://x-access-token:${PAT_TOKEN}@github.com/${{ github.repository }}
+          git config --global user.name "mowne67"
+          git config --global user.email "mowne67@github.com"
           git add README.md
           git commit -m "Update experience in README" || echo "No changes to commit"
           git push
