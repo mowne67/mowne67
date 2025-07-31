@@ -7,7 +7,7 @@
 
 ## 🚀 About Me
 
-I'm a Data Scientist and Full Stack AI Engineer with a B.Tech in Aerospace Engineering (with electives in Data Science) from **IIT Madras**. I love building scalable solutions at the intersection of data, AI, and impactful user experiences. Currently based in Bangalore, India.
+I'm a Data Scientist and Full Stack AI Engineer with a B.Tech in Aerospace Engineering (with electives in Data Science) from **IIT Madras**. I love building scalable solutions at the intersection of data, AI, and making impactful acceleration with my solutions. Currently based in Bangalore, India.
 
 ---
 
