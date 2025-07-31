@@ -16,14 +16,12 @@ Experience: 3 yrs 0 months
 
 ---
 
-## 🌟 Projects
+## 🌟 Hobby Projects
 
 - **[YouTube Knowledge Bank](https://github.com/mowne67/ytknowledgebank):** A pipeline for extracting, summarizing, and organizing YouTube video content into structured markdown summaries. Features include subtitle extraction, AI-based summarization, and deployment-ready configurations for efficient knowledge management.
 - **LLM Applications:** Movie script generation tool using fine-tuned LLMs (Gemini), RAG-based topic modeling & querying (Llama3 + FAISS).
-- **YOLO Object Detection:** Customer behavior insights from CCTV using YOLO and LLM-generated reports.
+- **YOLO based Object Detection:** Customer behavior insights from CCTV using YOLO and LLM-generated reports.
 - **Transfer Learning for NLP:** Fine-tuned embeddings (NNLM, USE, GNews Swivel) on Quora dataset with TensorBoard visualizations.
-- **Term Deposit Classification:** Modeled subscription outcomes from 40K+ banking calls, addressed class imbalance with SMOTE.
-- **COVID-19 EDA:** Linked pandemic data with happiness indices, uncovering unique correlations.
 
 ---
 
