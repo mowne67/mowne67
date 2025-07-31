@@ -13,23 +13,11 @@ I'm a Data Scientist and Full Stack AI Engineer with a Bachelors in Aerospace En
 
 ---
 
-## 🛠️ Skills & Certifications
-
-- **Languages & Tools:** Python, SQL, Cloudera CDSW, AWS, PySpark, Streamlit, Flask
-- **Libraries:** Pandas, Scikit-Learn, ScraPy, OpenCV
-- **GenAI & LLMs:** LangChain, Gemini, OpenAI, Langgraph, RAG, Llama3, SLMs, Ollama, FAISS
-- **Certifications:** Deep Learning with TensorFlow, Machine Learning, Computer Vision, Generative AI Essentials
-- **Techniques:** EDA, NLP, Vision, Modelling, Pipelines, Explainable AI
-
----
-
 ## 💼 Professional Experience
 
-### **Genpact  — Assistant Manager / Data Scientist**  
-*Dec 2024 - Present*
+#### **Genpact  — Assistant Manager / Data Scientist**   *Dec 2024 - Present*
 
-### **IQVIA  — Analyst (Advanced Analytics)**  
-*Jul 2022 – Dec 2024*
+#### **IQVIA  — Analyst (Advanced Analytics)**    *Jul 2022 – Dec 2024*
 
 ---
 
