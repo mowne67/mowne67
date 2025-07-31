@@ -11,6 +11,7 @@ I'm a Data Scientist and Full Stack AI Engineer with a Bachelors in Aerospace En
 
 
 Experience: 3 yrs 0 months
+
 ---
 
 ## 🛠️ Skills & Certifications
