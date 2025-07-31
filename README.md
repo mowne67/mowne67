@@ -9,7 +9,6 @@
 
 I'm a Data Scientist and Full Stack AI Engineer with a Bachelors in Aerospace Engineering (with electives in Data Science) from **IIT Madras**. I love building scalable solutions at the intersection of data, AI, and making impactful acceleration with my solutions. Currently based in Bangalore, India.
 
-
 *Experience: 3 yrs 0 months*
 
 ---
@@ -26,24 +25,22 @@ I'm a Data Scientist and Full Stack AI Engineer with a Bachelors in Aerospace En
 
 ## 💼 Professional Experience
 
-### **Genpact (Bangalore) — Assistant Manager / Data Scientist**  
+### **Genpact  — Assistant Manager / Data Scientist**  
 *Dec 2024 - Present*
 
-### **IQVIA (Bangalore) — Analyst (Advanced Analytics)**  
+### **IQVIA  — Analyst (Advanced Analytics)**  
 *Jul 2022 – Dec 2024*
-
 
 ---
 
 ## 🌟 Projects
 
 - **[YouTube Knowledge Bank](https://github.com/mowne67/ytknowledgebank):** A pipeline for extracting, summarizing, and organizing YouTube video content into structured markdown summaries. Features include subtitle extraction, AI-based summarization, and deployment-ready configurations for efficient knowledge management.
-- **[Portfolio-Mowne](https://github.com/mowne67/Portfolio-Mowne):** My portfolio of data science, AI, and ML projects.
 - **LLM Applications:** Movie script generation tool using fine-tuned LLMs (Gemini), RAG-based topic modeling & querying (Llama3 + FAISS).
 - **YOLO Object Detection:** Customer behavior insights from CCTV using YOLO and LLM-generated reports.
 - **Transfer Learning for NLP:** Fine-tuned embeddings (NNLM, USE, GNews Swivel) on Quora dataset with TensorBoard visualizations.
 - **Term Deposit Classification:** Modeled subscription outcomes from 40K+ banking calls, addressed class imbalance with SMOTE.
-- **COVID-19 Data Analysis:** Linked pandemic data with happiness indices, uncovering unique correlations.
+- **COVID-19 EDA:** Linked pandemic data with happiness indices, uncovering unique correlations.
 
 ---
 
