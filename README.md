@@ -7,9 +7,10 @@
 
 ## 🚀 About Me
 
-Experience: 3 yrs 0 months
 I'm a Data Scientist and Full Stack AI Engineer with a Bachelors in Aerospace Engineering (with electives in Data Science) from **IIT Madras**. I love building scalable solutions at the intersection of data, AI, and making impactful acceleration with my solutions. Currently based in Bangalore, India.
 
+
+Experience: 3 yrs 0 months
 ---
 
 ## 🛠️ Skills & Certifications
