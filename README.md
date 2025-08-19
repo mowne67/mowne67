@@ -8,7 +8,7 @@ TL,DR: I'm the NLP guy, the solution accelerator of every team I have been in.
 
 ## 💼 Professional Experience
 
-Experience: 3 yrs 0 months
+Experience: 3 yrs 1 months
 
 -  **[Genpact](https://genpact.com)**: Data Scientist, Analytics Embedment   (*Dec 2024 - Present*)
 
