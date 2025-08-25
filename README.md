@@ -2,10 +2,7 @@
 
 I'm a Data Scientist and Full Stack AI Engineer with a Bachelors in Aerospace Engineering (with electives in Data Science) from **IIT Madras**. I love building scalable solutions at the intersection of data, AI, and making impactful acceleration with my solutions. 
 
-TL,DR: I'm the NLP guy, the solution accelerator of every team I have been in.
-
 ---
-
 ## 💼 Professional Experience
 
 Experience: 3 yrs 1 months
@@ -15,7 +12,6 @@ Experience: 3 yrs 1 months
 -  **[IQVIA](https://iqvia.com)**: Analyst, Advanced Analytics    (*Jul 2022 – Dec 2024*)
 
 ---
-
 ## 🌟 Hobby Projects
 
 - **[YouTube Knowledge Bank](https://github.com/mowne67/ytknowledgebank):** A pipeline for extracting, summarizing, and organizing YouTube video content into structured markdown summaries. Features include subtitle extraction, AI-based summarization, and deployment-ready configurations for efficient knowledge management.
@@ -24,7 +20,6 @@ Experience: 3 yrs 1 months
 - **Transfer Learning for NLP:** Fine-tuned embeddings (NNLM, USE, GNews Swivel) on Quora dataset with TensorBoard visualizations.
 
 ---
-
 ## 🎓 Education
 
 **Indian Institute of Technology Madras**  
@@ -32,7 +27,6 @@ B.Tech in Aerospace Engineering (Electives in Data Science), May 2022
 Coursework: Data Analytics, Applied Statistics, Probabilistic Systems Analysis, Linear Algebra, Python for Data Science
 
 ---
-
 ## 📫 Contact
 
 - **Email:** aksmownetharan@gmail.com, mowne67@alumni.iitm.ac.in
