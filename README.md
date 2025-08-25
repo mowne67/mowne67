@@ -2,9 +2,7 @@
 
 I'm a Data Scientist and Full Stack AI Engineer with a Bachelors in Aerospace Engineering (with electives in Data Science) from **IIT Madras**. I love building scalable solutions at the intersection of data, AI, and making impactful acceleration with my solutions. 
 
-## 💼 Professional Experience
-
-Experience: 3 yrs 1 months
+## 💼 Professional Experience: 
 
 -  **[Genpact](https://genpact.com)**: Data Scientist, Analytics Embedment   (*Dec 2024 - Present*)
 

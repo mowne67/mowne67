@@ -1,27 +1,22 @@
 from datetime import datetime
+from dateutil.relativedelta import relativedelta
+import re
 
 # Start date
 start_date = datetime(2022, 7, 19)
 today = datetime.now()
 
-# Calculate the difference
-years = today.year - start_date.year
-months = today.month - start_date.month
+# Calculate difference using relativedelta
+diff = relativedelta(today, start_date)
+years, months, days = diff.years, diff.months, diff.days
 
-if today.day < start_date.day:
-    months -= 1
-
-if months < 0:
-    years -= 1
-    months += 12
-
-experience_str = f"Experience: {years} yrs {months} months"
+# Format experience string
+experience_str = f"Experience: {years} yrs {months} months {days} days"
 
 # Update the README.md
 with open("README.md", "r", encoding="utf-8") as f:
     content = f.read()
 
-import re
 updated_content = re.sub(r"Experience:.*", experience_str, content)
 
 with open("README.md", "w", encoding="utf-8") as f:
