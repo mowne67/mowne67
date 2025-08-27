@@ -1,6 +1,6 @@
 ## 🚀 Hi, I'm Mowne!
 
-I'm a Data Scientist and a Full Stack AI Engineer with a Bachelors in Aerospace Engineering (with electives in Data Science) from **[IIT Madras](https://www.iitm.ac.in)**. I love building scalable solutions at the intersection of data, AI, and making impactful acceleration. 
+I'm a Data Scientist and a Full Stack AI Engineer with a Bachelors in Aerospace Engineering (with electives in Data Science) from **[IIT Madras](https://www.iitm.ac.in)**. I build scalable solutions at the intersection of data, AI, and impactful business process acceleration. 
 
 ## 💼 Professional Experience 
 
