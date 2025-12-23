@@ -28,5 +28,5 @@ Coursework: Data Analytics, Applied Statistics, Probabilistic Systems Analysis, 
 - **Location:** Bengaluru, India
 - **LinkedIn:** [linkedin.com/in/mowne](https://linkedin.com/in/mowne)
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=mowne67&show_icons=true&theme=radical)
+![GitHub Calendar](https://metrics.lecoq.io/mowne67?template=classic&isocalendar=1&isocalendar.duration=1)
 [![Your Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mowne67&theme=github-compact)](https://github.com/mowne67)
