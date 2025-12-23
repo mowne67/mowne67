@@ -1,3 +1,4 @@
+![GitHub Heatmap](https://metrics.lecoq.io/mowne67?base=&plugin_isocalendar=1&plugin_isocalendar_duration=1)
 ## Hi, I'm Mowne!
 
 I'm a Data Scientist and a Full Stack AI Engineer with a Bachelors in Aerospace Engineering (with electives in Data Science) from **[IIT Madras](https://www.iitm.ac.in)**. I build scalable solutions at the intersection of data, AI, and impactful business process acceleration. 
