@@ -7,8 +7,9 @@ I'm a Data Scientist and a Full Stack AI Engineer with a Bachelors in Aerospace 
 -  **[Genpact](https://genpact.com)**: Data Scientist   (*Dec 2024 - Present*)
 -  **[IQVIA](https://iqvia.com)**: Analyst    (*Jul 2022 – Dec 2024*)
 
-## Hobby Projects
+## Personal Projects
 
+- **Habit Tracker**: Work in Progress
 - **Enterprise Resource Planning AI Chatbot:** Harnessed Langgraph's Agentic usecases to create a workflow of agents and processes with routers. 
 - **[YouTube Knowledge Bank](https://github.com/mowne67/ytknowledgebank):** A pipeline for extracting, summarizing, and organizing YouTube video content into structured markdown summaries. Features include subtitle extraction, AI-based summarization, and deployment-ready configurations for efficient knowledge management.
 - **OCR Streamlit App:** Utilised Gemini's vision capabilities
@@ -28,5 +29,3 @@ Coursework: Data Analytics, Applied Statistics, Probabilistic Systems Analysis, 
 - **Location:** Bengaluru, India
 - **LinkedIn:** [linkedin.com/in/mowne](https://linkedin.com/in/mowne)
 
-![My 3D contribution graph](https://github-profile-3d-contrib.vercel.app/api?username=mowne67)
-[![Your Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mowne67&theme=github-compact)](https://github.com/mowne67)
