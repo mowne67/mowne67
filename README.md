@@ -29,4 +29,4 @@ Coursework: Data Analytics, Applied Statistics, Probabilistic Systems Analysis, 
 - **LinkedIn:** [linkedin.com/in/mowne](https://linkedin.com/in/mowne)
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=mowne67&show_icons=true&theme=radical)
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mowne67)](https://git.io/streak-stats)
+[![Your Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR-USERNAME&theme=github-compact)](https://github.com/YOUR-USERNAME)
