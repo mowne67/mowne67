@@ -1,7 +1,4 @@
-![GitHub Heatmap](https://ghchart.rshah.org/mowne67)
-## Hi, I'm Mowne!
-
-I'm a Data Scientist and a Full Stack AI Engineer with a Bachelors in Aerospace Engineering (with electives in Data Science) from **[IIT Madras](https://www.iitm.ac.in)**. I build scalable solutions at the intersection of data, AI, and impactful business process acceleration. 
+Hello! I'm a Data Scientist and a Full Stack AI Engineer with a Bachelors in Aerospace Engineering (with electives in Data Science) from **[IIT Madras](https://www.iitm.ac.in)**. I build scalable solutions at the intersection of data, AI, and impactful business process acceleration. Please have a look at my profile if you're interested!
 
 ## Professional Experience 
 
@@ -22,11 +19,10 @@ I'm a Data Scientist and a Full Stack AI Engineer with a Bachelors in Aerospace 
 
 **[Indian Institute of Technology Madras](https://www.iitm.ac.in)**  
 B.Tech in Aerospace Engineering (Electives in Data Science), May 2022  
-Coursework: Data Analytics, Applied Statistics, Probabilistic Systems Analysis, Linear Algebra, Python for Data Science
+Coursework: Data Analytics, Applied Statistics, Probabilistic Systems Analysis, Linear Algebra, Python for Data Science, Complex Variables
 
 ## Contact
 
 - **Email:** aksmownetharan@gmail.com, mowne67@alumni.iitm.ac.in
 - **Location:** Bengaluru, India
 - **LinkedIn:** [linkedin.com/in/mowne](https://linkedin.com/in/mowne)
-
