@@ -3,9 +3,9 @@ Hello! I'm a Data Scientist and a Full Stack AI Engineer with a Bachelors in Aer
 ## Professional Experience 
 
 -  **[ITO Health](https://itohealth.org)**: Applied AI Engineer   (*Dec 2025 - Present*)
--  **[Genpact](https://genpact.com)**: Data Scientist   (*Dec 2024 - Present*)
 
 *Past*
+-  **[Genpact](https://genpact.com)**: Data Scientist   (*Dec 2024 - Present*)
 -  **[Indivia AI](https://indivia.ai)**: Lead AI Engineer   (*Aug 2025 - Dec 2025*)
 -  **[IQVIA](https://iqvia.com)**: Analyst    (*Jul 2022 – Dec 2024*)
 
