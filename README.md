@@ -1,6 +1,6 @@
-Hello! I'm a Data Scientist and a Full Stack AI Engineer with a Bachelors in Aerospace Engineering (with electives in Data Science) from **[IIT Madras](https://www.iitm.ac.in)**. I build scalable solutions at the intersection of data, AI, and impactful business process acceleration. Drop me a mail if you're interested in working with me!
+Hello! I'm an AI Engineer with a Bachelors from **[IIT Madras](https://www.iitm.ac.in)**. I build scalable solutions at the intersection of data, AI, and impactful business process acceleration. Drop me a mail if you're interested in working with me!
 
-## Professional Experience 
+## Experience & Education
 
 -  **[ITO Health](https://itohealth.org)**: Applied AI Engineer   (*Dec 2025 - Present*)
 
@@ -8,6 +8,11 @@ Hello! I'm a Data Scientist and a Full Stack AI Engineer with a Bachelors in Aer
 -  **[Genpact](https://genpact.com)**: Data Scientist   (*Dec 2024 - Present*)
 -  **[Indivia AI](https://indivia.ai)**: Lead AI Engineer   (*Aug 2025 - Dec 2025*)
 -  **[IQVIA](https://iqvia.com)**: Analyst    (*Jul 2022 – Dec 2024*)
+
+*Education*
+- **[Indian Institute of Technology Madras](https://www.iitm.ac.in)**  
+B.Tech in Aerospace Engineering (Electives in Data Science), May 2022  
+Coursework: Data Analytics, Applied Statistics, Probabilistic Systems Analysis, Linear Algebra, Python for Data Science, Complex Variables
 
 ## Side Projects
 
@@ -17,12 +22,6 @@ Hello! I'm a Data Scientist and a Full Stack AI Engineer with a Bachelors in Aer
 - **LLM Applications:** Movie script generation tool using fine-tuned LLMs (Gemini), RAG-based topic modeling & querying (Llama3 + FAISS).
 - **YOLO based Object Detection:** Customer behavior insights from CCTV using YOLO and LLM-generated reports.
 - **Transfer Learning for NLP:** Fine-tuned embeddings (NNLM, USE, GNews Swivel) on Quora dataset with TensorBoard visualizations.
-
-## Education
-
-**[Indian Institute of Technology Madras](https://www.iitm.ac.in)**  
-B.Tech in Aerospace Engineering (Electives in Data Science), May 2022  
-Coursework: Data Analytics, Applied Statistics, Probabilistic Systems Analysis, Linear Algebra, Python for Data Science, Complex Variables
 
 ## Contact
 
