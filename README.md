@@ -1,6 +1,6 @@
 Hello! I'm an AI Engineer with 4 years of experience and a BTech degree from **[IIT Madras](https://www.iitm.ac.in)**. I build scalable solutions at the intersection of data, AI, and impactful business process acceleration. Drop me a mail if you're interested in working with me!
 
-### Experience & Education
+## Experience & Education
 
 -  **[ITO Health](https://itohealth.org)**: Applied AI Engineer   (*Dec 2025 - Present*)
 
@@ -14,7 +14,7 @@ Hello! I'm an AI Engineer with 4 years of experience and a BTech degree from **[
 B.Tech in Aerospace Engineering (Electives in Data Science), May 2022  
 Coursework: Data Analytics, Applied Statistics, Probabilistic Systems Analysis, Linear Algebra, Python for Data Science, Complex Variables
 
-### Contact
+## Contact
 
 - **Email:** aksmownetharan@gmail.com, mowne67@alumni.iitm.ac.in
 - **LinkedIn:** [linkedin.com/in/mowne](https://linkedin.com/in/mowne)
