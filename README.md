@@ -10,7 +10,7 @@ Hello! I'm an AI Engineer with 4 years of experience and a BTech degree from **[
 
 *Education*
 - **[Indian Institute of Technology Madras](https://www.iitm.ac.in)**  
-B.Tech in Aerospace Engineering (Electives in Data Science), May 2022  
+B.Tech in Aerospace Engineering (Electives in Data Science), 2021  
 Coursework: Data Analytics, Applied Statistics, Probabilistic Systems Analysis, Linear Algebra, Python for Data Science, Complex Variables
 
 ## Contact
