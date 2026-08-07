@@ -1,6 +1,7 @@
 Hello! I'm an AI Engineer with 4 years of experience and a BTech degree from **[IIT Madras](https://www.iitm.ac.in)**. I build solutions at the intersection of data, mathematics and AI. Drop me a mail if you're interested in working with me!
 
 ## Experience & Education
+*Present*
 -  **[ITO Health](https://itohealth.org)**: Applied AI Engineer   (*Dec 2025 - Present*)
 
 *Past*
