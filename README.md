@@ -3,12 +3,10 @@ I'm an AI Engineer with 4 years of experience and a BTech degree from **[IIT Mad
 ## Experience & Education
 *Present*
 -  **[ITO Health](https://itohealth.org)**: Applied AI Engineer   (*Dec 2025 - Present*)
-
 *Past*
 -  **[Genpact](https://genpact.com)**: Data Scientist   
 -  **[Indivia AI](https://indivia.ai)**: Lead AI Engineer   
 -  **[IQVIA](https://iqvia.com)**: Analyst   
-
 *Education*
 - **[Indian Institute of Technology Madras](https://www.iitm.ac.in)**  
 B.Tech in Aerospace Engineering (Electives in Data Science), 2021  
