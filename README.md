@@ -7,5 +7,4 @@ I'm an AI Engineer with 4 years of experience specialising in building Agents an
 -  **[IQVIA](https://iqvia.com)**: Analyst
 
 *Education*
-- **[Indian Institute of Technology Madras](https://www.iitm.ac.in)**  
-B.Tech in Aerospace Engineering (Electives in Data Science), 2021  
+- **[Indian Institute of Technology Madras](https://www.iitm.ac.in)**: B.Tech, 2021
